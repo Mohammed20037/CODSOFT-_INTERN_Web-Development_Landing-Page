@@ -44,8 +44,8 @@ The project consists of two main files:
 
 ## Project Preview
 
-![web](![web](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Landing-Page/assets/113844625/f8548f94-3a45-4ac9-b173-b1b4d6be22ad)
-)
+![web](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Landing-Page/assets/113844625/f8548f94-3a45-4ac9-b173-b1b4d6be22ad)
+
 
 
 ## Contributing
